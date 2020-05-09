@@ -1,0 +1,161 @@
+
+.header{
+    background-color: royalblue;
+    padding: 5px;
+    height: 50px;
+}
+.start{
+    color: blue;
+}
+.end{
+    color: green;
+}
+.logo{
+    width: 50px;
+    margin-left: 650px;
+}
+.log{
+    margin-left: 650px;
+}
+
+
+.tagline{
+    margin-left: 170px;
+    margin-top: 10px;
+    color: white;
+}
+.donation{
+    position: relative;
+    left: 1000px;
+    bottom: 20px;
+}
+.fixed{
+    height: 70px;
+    width: 100%;
+    background-color:whitesmoke;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0px;
+}
+.butt{
+   margin-bottom: 35px;
+    margin-left: 650px;
+    margin-top: -35px;
+}
+.button{
+    border: none; 
+   border-radius: 6cm;
+}
+.button:hover{
+    background-color: blue;
+}
+.para{
+    font-size: larger;
+    color: slategrey;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: justify;
+}
+marquee{
+    color: white;
+    background-color: royalblue;
+    font-size: medium;
+}
+.one,.two,.three{
+   display: inline-block;
+    width: 300px; 
+    background-color:whitesmoke;
+    margin: 50px;
+}
+.four,.five,.six{
+    display: inline-block;
+    width: 300px;
+    margin: 50px;
+    background-color:whitesmoke;
+}
+.box{
+    text-align: center;
+}
+.other{
+    text-align: center;
+}
+.services{
+    background-color: royalblue;
+    width: 100%;
+    height: 300px;
+    color: white;
+    text-align: center;
+}
+.food,.family,.medical,.education {
+    display: inline-block;
+    margin-top: 80px;
+    width: 300px;
+}
+
+.tags{
+    display: inline-block;
+}
+.image{
+    width: 300px;
+}
+.event{
+    position: relative;
+    left: 850px;
+    bottom:530px;
+    width: 400px;
+    display: inline-block;
+}
+.projects{
+    display: inline-block;
+}
+.hep,.house{
+    display: inline-block;
+    width: 250px;
+    background-color:lavender;
+    margin: 50px;
+    height: 70px;
+    padding: 20px;
+}
+.it,.thar{
+    display: inline-block;
+    width: 250px;
+    background-color:lavender;
+    margin: 50px;
+    height: 70px;
+    padding: 20px;
+}
+.contact{
+    background-color:darkslategrey;
+    width: 100%;
+    height: 400px;
+}
+.number{
+    position: relative;
+    top: 40px;
+    left: 550px;
+    color: white;
+
+}
+.connect{
+    position: relative;
+    color: white;
+    left: 900px;
+    font-size:large;
+}
+.heading{
+    color: blue;
+}
+.adress{
+    color: white;
+}
+.footer{
+    width: 100%;
+    background-color: royalblue;
+    height: 40px;
+}
+.dis {
+    display: inline-block;
+}
+.missions,.event{
+    display: inline-block;
+}
